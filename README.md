@@ -1,4 +1,4 @@
-# [DailyDev](https://app.daily.dev/) Card
+# [DailyDev](https://dly.to/dQ64tRQX8H8) Card
 <a href="https://app.daily.dev/g_r_e_y_m_a_n"><img src="https://api.daily.dev/devcards/e928bc80bee746ea8cb28c4d30fc1f7f.png?r=ewz" width="400" alt="Ulrich's Dev Card"/></a>
 
 <!--
